@@ -1,0 +1,11 @@
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel Management System.csproj.SuggestedBindingRedirects.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel_Management_System.Form1.resources
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Ayesha\Studies\SEM2\Visual Studio\Hotel Management System\obj\Debug\Hotel Management System.pdb
