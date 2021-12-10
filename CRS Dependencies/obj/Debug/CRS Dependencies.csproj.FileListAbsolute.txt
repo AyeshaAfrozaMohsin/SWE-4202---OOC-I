@@ -1,0 +1,5 @@
+C:\Ayesha\Studies\SEM2\Visual Studio\CRS Dependencies\obj\Debug\CRS Dependencies.csproj.CoreCompileInputs.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\CRS Dependencies\bin\Debug\CRS Dependencies.dll
+C:\Ayesha\Studies\SEM2\Visual Studio\CRS Dependencies\bin\Debug\CRS Dependencies.pdb
+C:\Ayesha\Studies\SEM2\Visual Studio\CRS Dependencies\obj\Debug\CRS Dependencies.dll
+C:\Ayesha\Studies\SEM2\Visual Studio\CRS Dependencies\obj\Debug\CRS Dependencies.pdb
