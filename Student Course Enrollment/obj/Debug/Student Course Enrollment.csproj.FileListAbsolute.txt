@@ -1,0 +1,11 @@
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\bin\Debug\Student Course Enrollment.exe.config
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\bin\Debug\Student Course Enrollment.exe
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\bin\Debug\Student Course Enrollment.pdb
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.AssemblyReference.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.SuggestedBindingRedirects.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student_Course_Enrollment.Form1.resources
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student_Course_Enrollment.Properties.Resources.resources
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.GenerateResource.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student Course Enrollment.csproj.CoreCompileInputs.cache
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student Course Enrollment.exe
+C:\Ayesha\Studies\SEM2\Visual Studio\Student Course Enrollment\obj\Debug\Student Course Enrollment.pdb
