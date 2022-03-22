@@ -1,0 +1,101 @@
+Dummy.ID = values[0];
+                    Dummy.Name = values[1];
+                    if (values[2] != "")
+                    {
+                        try
+                        {
+                            Dummy.Attendance = Convert.ToDouble(values[2]);
+                        }
+                        catch
+                        {
+                            Dummy.Attendance = 0;
+                        }
+                    }
+                    else Dummy.Attendance = 0;
+                    if (values[3] != "")
+                    {
+                        try
+                        {
+                            Dummy.Quizes.Add(Convert.ToDouble(values[3]));
+                        }
+                        catch
+                        {
+                            Dummy.Quizes.Add(0);
+                        }
+                    }
+                    else Dummy.Quizes.Add(0);
+                    if (values[4] != "")
+                    {
+                        try
+                        {
+                            Dummy.Quizes.Add(Convert.ToDouble(values[4]));
+                        }
+                        catch
+                        {
+                            Dummy.Quizes.Add(0);
+                        }
+                    }
+                    else Dummy.Quizes.Add(0);
+                    if (values[5] != "")
+                    {
+                        try
+                        {
+                            Dummy.Quizes.Add(Convert.ToDouble(values[5]));
+                        }
+                        catch
+                        {
+                            Dummy.Quizes.Add(0);
+                        }
+                    }
+                    else Dummy.Quizes.Add(0);
+                    if (values[6] != "")
+                    {
+                        try
+                        {
+                            Dummy.Quizes.Add(Convert.ToDouble(values[6]));
+                        }
+                        catch
+                        {
+                            Dummy.Quizes.Add(0);
+                        }
+                    }
+                    else Dummy.Quizes.Add(0);
+                    if (values[7] != "")
+                    {
+                        try
+                        {
+                            Dummy.Mid = Convert.ToDouble(values[7]);
+                        }
+                        catch
+                        {
+                            Dummy.Mid = 0;
+                        }
+                    }
+                    else Dummy.Mid = 0;
+                    if (values[8] != "")
+                    {
+                        try
+                        {
+                            Dummy.Final = Convert.ToDouble(values[8]);
+                        }
+                        catch
+                        {
+                            Dummy.Final = 0;
+                        }
+                    }
+                    else Dummy.Final = 0;
+                    if (values[9] != "")
+                    {
+                        try
+                        {
+                            Dummy.Viva = Convert.ToDouble(values[9]);
+                        }
+                        catch
+                        {
+                            Dummy.Final = 0;
+                        }
+                    }
+                    else Dummy.Viva = 0;
+
+                    StudentIDComboBox.Items.Add(Dummy.ID);
+                    rps.Students.Add(Dummy);
